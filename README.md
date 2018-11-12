@@ -1,6 +1,8 @@
 Titanic_survival
 
 Outcome-
+
+
 1.Male died more than female
 
 
